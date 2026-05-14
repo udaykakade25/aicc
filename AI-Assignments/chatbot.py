@@ -39,5 +39,3 @@ def chat():
 # ▶️ Run app
 if __name__ == "__main__":
     app.run(debug=True)
-
-     # $env:GEMINI_API_KEY="AIzaSyBvbJEhP6HBVP3vCExleetOtXrNWRjZ9AM"
